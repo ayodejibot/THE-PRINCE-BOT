@@ -13,7 +13,7 @@ import moment from "moment-timezone"
 
 global.owner = [
   ["2349060187481", "SWORDS", false],
-  ["+2349065194471", "BLAZE", false], 
+  ["2349065194471", "BLAZE", false], 
   [''] 
 ]
 //💌------------------------------------------💌
